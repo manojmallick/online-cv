@@ -102,6 +102,7 @@ projects:
       Some of my projects
     assignments:
         title: Stock inventory predicitions using deep learning (Research Project)
+        link: "https://github.com/tmespe"
         tagline: Using deep learning to predict the difference actual stock inventory and stock inventory registered in information system
 
       - title: Umigon Sentiment analysis (Research Project)
