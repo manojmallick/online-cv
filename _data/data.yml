@@ -101,6 +101,13 @@ projects:
     intro: >
       Some of my projects
     assignments:
+        title: Stock inventory predicitions using deep learning (Research Project)
+        tagline: Using deep learning to predict the difference actual stock inventory and stock inventory registered in information system
+
+      - title: Umigon Sentiment analysis (Research Project)
+        link: https://github.com/seinecle/umigon-core
+        tagline: Multilingual lexical approach for sentiment analysis
+
       - title: Brightspace Downloader
         link: "https://github.com/tmespe/brightspace_downloader"
         tagline: "Download all course content from brightspace using Selenium for an easy way to gather all course content"
