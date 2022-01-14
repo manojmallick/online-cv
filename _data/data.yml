@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Terje Espedal
@@ -61,8 +61,9 @@ education:
       time: 2021 - 
       details: |
         Program focused on using data science to improve digital marketing and make data driven decisions in all fields
-          - Programming using Python, R and SQL
-          - Machine learning, data visualization
+          - Programming using Python, R, SQL, HTML, Javascript
+          - Machine learning, deep learning, data visualization, NLP, text mining
+          - Google analytics, google data studio, Semrush, PowerBI
     - degree: Masters in Comparative Politics
       university: University of Bergen, Bergen Norway
       time: 2007 - 2012
@@ -102,7 +103,6 @@ projects:
       Some of my projects
     assignments:
         title: Stock inventory predicitions using deep learning (Research Project)
-        link: "https://github.com/tmespe"
         tagline: Using deep learning to predict the difference actual stock inventory and stock inventory registered in information system
 
       - title: Umigon Sentiment analysis (Research Project)
