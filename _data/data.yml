@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/tmespe/online-cv/blob/master/_data/Terje's%20Resume_updated_1_17.pdf
+    pdf: https://github.com/tmespe/online-cv/blob/master/_includes/pdf_cv.html
 
     languages:
       - idiom: Norwegian
