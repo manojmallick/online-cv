@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Terje Espedal
-    tagline: Data Science and Digital Marketing student at emlyon business school
+    tagline: Data Science & Digital Marketing student
     avatar: profile_close.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -54,7 +54,9 @@ career-profile:
     title: Career Profile
     summary: |
       Worked for 6 years on Digital Transformation in Norway. Working closely with developers and consultants I found that decisions are often made without data.
-      I decided that what I wanted to change this and started my degree in Data Science and Digital marketing at emlyon.
+      I decided that what I wanted to change this and started my degree in Data Science and Digital marketing at emlyon. 
+
+      I love puzzles, exploration and learning. Passionate about Data Science, Technology and video games.
 education:
     - degree: MSc in Digital Marketing & Data Science
       university: emlyon business school, Paris France
@@ -63,14 +65,15 @@ education:
         Program focused on using data science to improve digital marketing and make data driven decisions in all fields
           - Programming using Python, R, SQL, HTML, Javascript
           - Machine learning, deep learning, data visualization, NLP, text mining
-          - Google analytics, google data studio, Semrush, PowerBI
+          - Digital marketing with Google analytics, google data studio, Semrush, PowerBI
+          - New business models, digitalbusiness strategies, digital ethics.
     - degree: Masters in Comparative Politics
       university: University of Bergen, Bergen Norway
       time: 2007 - 2012
       details: |
         Political science degree with a focus on statistics and quantitative methodology
-          - Multivariate regression analysis using Stata
-          - EU politics and policies
+          - Quantiative and qualitative methodologies
+          - Organizational theory
 experiences:
     - role: Customer Service Manager
       time: 2020 - 2021
@@ -80,21 +83,20 @@ experiences:
             customer handled per day by 100%
           - Debugged technical issues with EVs remotely leveraging APIs
             and tools for over 2000 customers. 
-          - Examined CRM data of more than 10.000 cases to find areas
-            of improvement and automaton
+          - Examined CRM data of more than 10.000 cases to improve and
+            automate response time.
     - role: Senior Advisor Digital Transformation
       time: 2017 - 2019
-      company: OsloMet, Oslo Norway
+      company: Oslo Metropolitan University, Oslo Norway
       details: |
-          - Lead project "A Better Digital Student Experience" identifying
-            3 areas of improvement receiving funding for follow up
-            projects. 
+          - Lead project "A Better Digital Student Experience'' to enhance
+            student experience and increase efficiency of services. Successfully
+            pitched for key stakeholders to receive follow up funds
           - Represented University on 3 collaborative National digital
-            transformation projects implementing 3 new tools for more
-            than 25.000 students and 2000 staff members. 
-          - Managed database of more than 100.000 students and
-            analyzed data and created dashboards in Tableau and made
-            reports for key stakeholders.
+            transformation projects implementing new tools for more than
+            25.000 students and 2000 staff members.
+          - Managed database of more than 100.000 students, analyzed exam
+            data, created dashboards for key stakeholders in Tableau to replace manually prepared excel reports
 
    
 projects:
@@ -102,8 +104,9 @@ projects:
     intro: >
       Some of my projects
     assignments:
-      - title: Stock inventory predicitions using deep learning (Research Project)
-        tagline: Using deep learning to predict the difference actual stock inventory and stock inventory registered in information system
+      - title: Video game review dashboard in R
+        link: https://github.com/tmespe/shiny_game_reviews_dashboard
+        tagline: Video game review dashboard made in R with Shiny
 
       - title: Umigon Sentiment analysis (Research Project)
         link: https://github.com/seinecle/umigon-core
@@ -111,7 +114,7 @@ projects:
 
       - title: Brightspace Downloader
         link: "https://github.com/tmespe/brightspace_downloader"
-        tagline: "Download all course content from brightspace using Selenium for an easy way to gather all course content"
+        tagline: "Download course content from brightspace using Selenium for an easy way to gather all course content"
 
       - title: Gamepass API
         link: "https://github.com/tmespe/gamepass_api"
@@ -129,9 +132,12 @@ skills:
         level: 80%
 
       - name: R
-        level: 70%
+        level: 80%
       
       - name: Google Analytics
+        level: 80%
+
+      - name: PowerBI
         level: 80%
       
       - name: Tableau
@@ -140,13 +146,10 @@ skills:
       - name: Google Data Studio
         level: 70%
       
-      - name: PowerBI
-        level: 70%
-
       - name: HTML5 & CSS
         level: 60%
 
     
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
